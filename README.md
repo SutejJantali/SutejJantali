@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sutej Jantali
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C Language.
-- How to reach me :[Linkedin - Sutej Jantali](https://www.linkedin.com/in/sutej-jantali-859719228)
-
+- How to reach me : [Linkedin - Sutej Jantali](https://www.linkedin.com/in/sutej-jantali-859719228)
+                    [Facebook - Sutej Jantali](https://www.facebook.com/sutej.jantali/)
 
 <!---
 SutejJantali/SutejJantali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
