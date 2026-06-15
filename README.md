@@ -1,145 +1,225 @@
-<h1 align="center">Sutej Jantali</h1>
+<h1 align="center">Hi 👋, I'm Sutej Jantali</h1>
+
+<h3 align="center">
+Full Stack Software Engineer | Java • Spring Boot • React • AI Automation
+</h3>
 
 <p align="center">
-Software Engineer @ Texas Instruments
+Building scalable applications, enterprise integrations, and AI-powered solutions.
 </p>
 
 <p align="center">
-Building scalable backend systems, enterprise integrations, and AI-powered automation solutions.
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/sutej-r-jantali">LinkedIn</a> •
-<a href="https://github.com/SutejJantali">GitHub</a> •
-<a href="mailto:iamsutej@gmail.com">Email</a>
+  <a href="https://github.com/SutejJantali">
+    <img src="https://img.shields.io/github/followers/SutejJantali?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SutejJantali&style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-Software Engineer with 2+ years of experience delivering enterprise-scale applications and integrations.
+💼 Software Engineer at **Texas Instruments**
 
-Currently working at Texas Instruments where I develop backend services, distributed integrations, and AI-powered automation solutions used across global HR and finance systems.
+🚀 Full Stack Developer with 2+ years of experience building enterprise applications, distributed integrations, and AI-powered automation platforms.
 
-### Highlights
+🌍 Developed solutions supporting employees across **30+ countries**
 
-- Automated 85% of HR support queries using an Agentic AI platform
-- Built enterprise integrations serving employees across 30+ countries
-- Increased ESPP processing frequency from quarterly to daily
-- Solved 650+ Data Structures & Algorithms problems
-- Strong foundation in System Design and Distributed Systems
+🤖 Automated **85% of HR support requests** through Agentic AI
+
+📈 Improved operational efficiency by **75%+** through scalable integration platforms
+
+🧠 Solved **650+ LeetCode problems**
+
+📚 Currently exploring:
+- Distributed Systems
+- System Design
+- AI Agents
+- Cloud-Native Applications
 
 ---
 
-## Technical Expertise
+# 🛠️ Tech Stack
 
-### Backend Engineering
-- Java
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
 - Spring Boot
 - REST APIs
 - Microservices
 - Distributed Systems
 
-### AI & Automation
-- Python
-- Agentic AI
-- Google ADK
-- LiteLLM
+## Databases
 
-### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 - Oracle DB
 - SQL Server
-- SQL
 
-### Cloud & DevOps
-- AWS
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,linux" />
+</p>
+
+## Tools
+
 - Oracle Cloud
-- Docker
-- Jenkins
-- Git
+- Postman
+- Jira
+- Confluence
+- Agile / Scrum
 
 ---
 
-## Experience
+# 💼 Experience
 
-### Texas Instruments | Application Developer
+## 🏢 Texas Instruments
 
-#### Agentic AI HR Assistant
+### 🤖 Agentic AI HR Assistant
 
-Built an AI-powered employee self-service platform that enables:
+Developed features for an AI-powered HR self-service platform enabling employees to:
 
-- Payslip retrieval
-- Employment verification generation
-- Historical document access
-- Multilingual document support
+- Retrieve payslips
+- Generate verification letters
+- Access historical HR documents
+- Receive multilingual support
 
-**Impact**
-- Automated 85% of HR support requests
-- Reduced turnaround time from days to minutes
-- Scaled across 30+ countries
+### Impact
 
-#### Employee Stock Purchase Plan (ESPP)
+✅ Automated 85% of HR support requests
 
-Designed distributed integration services between enterprise HR systems and Fidelity.
+✅ Reduced turnaround time from days to minutes
 
-**Impact**
-- Improved processing frequency from quarterly to daily
-- Increased operational efficiency by 75%+
-- Enhanced reliability and error handling
+✅ Scaled solution across 30+ countries
+
+**Tech:** Python, Google ADK, LiteLLM, Oracle HCM Cloud, Oracle DB
 
 ---
 
-## Featured Projects
+### 📈 Employee Stock Purchase Plan (ESPP)
 
-### Employee Management System
+Designed and implemented distributed integration services for enterprise stock purchase programs.
 
-Backend application built using:
+### Impact
 
-- Java
+✅ Increased processing frequency from quarterly to daily
+
+✅ Improved operational efficiency by 75%+
+
+✅ Enhanced reliability and deployment consistency
+
+**Tech:** Java, REST APIs, Oracle DB, Boomi
+
+---
+
+# 🚀 Featured Projects
+
+## Employee Management System
+
+Full Stack Employee Management Platform
+
+### Tech Stack
+
+- React
 - Spring Boot
 - PostgreSQL
 - REST APIs
 
-Key Features:
-- CRUD Operations
+### Features
+
+- Employee CRUD Operations
 - Layered Architecture
-- Exception Handling
 - DTO Pattern
-
-### Data Structures & Algorithms
-
-- 650+ LeetCode problems solved
-- Graphs
-- Dynamic Programming
-- Trees
-- System Design concepts
+- Exception Handling
+- Responsive UI
 
 ---
 
-## Achievements
+## 🤖 AI Automation Solutions
 
-🏆 Rising Star of the Quarter — Texas Instruments
+Enterprise-grade automation solutions focused on:
+
+- HR Self-Service
+- Workflow Automation
+- Intelligent Document Retrieval
+- Agentic AI Systems
+
+---
+
+## 📚 Data Structures & Algorithms
+
+- 650+ LeetCode Problems Solved
+- Graphs
+- Trees
+- Dynamic Programming
+- Greedy Algorithms
+- System Design Concepts
+
+---
+
+# 🏆 Achievements
+
+🥇 Rising Star of the Quarter — Texas Instruments
 
 🎓 Top 10 Academic Performer
 
-💡 CGPA: 9.4/10
+📈 CGPA: 9.4 / 10
 
-🧠 650+ LeetCode Problems Solved
-
----
-
-## Currently Learning
-
-- Distributed Systems
-- System Design
-- Designing Data-Intensive Applications
-- Scalable Backend Architectures
+💻 650+ LeetCode Problems Solved
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SutejJantali&show_icons=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SutejJantali&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SutejJantali&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SutejJantali&layout=compact)
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SutejJantali&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:iamsutej@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/sutej-r-jantali">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/SutejJantali">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+> Building scalable software, solving complex problems, and continuously learning.
