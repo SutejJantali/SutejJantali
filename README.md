@@ -8,12 +8,6 @@ Full Stack Software Engineer | Java • Spring Boot • React • AI Automation
 Building scalable applications, enterprise integrations, and AI-powered solutions.
 </p>
 
-<p align="center">
-  <a href="https://github.com/SutejJantali">
-    <img src="https://img.shields.io/github/followers/SutejJantali?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SutejJantali&style=for-the-badge" />
-</p>
 
 ---
 
